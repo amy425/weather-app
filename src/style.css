@@ -1,0 +1,82 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+  margin: 0px auto;
+  padding: 0px 10px;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0px auto;
+  padding: 18px 12px;
+}
+
+h3 {
+  text-align: center;
+  margin: 0px auto;
+  padding: 6px 0px;
+}
+
+li {
+  list-style-type: none;
+  padding: 2px 0px;
+  font-weight: bold;
+}
+
+ul {
+  padding-top: 6px;
+  padding-left: 0px;
+}
+
+.temperature,
+.city {
+  background: #f8f8f8;
+  text-align: center;
+  margin: 2px 4px;
+  border-radius: 4px;
+}
+
+.temperature {
+  margin-bottom: 8px;
+}
+
+.weekday {
+  background: #f8f8f8;
+  text-align: center;
+  margin: 2px 4px;
+  border-radius: 4px;
+}
+
+.search {
+  margin: 2px 4px;
+  border-radius: 4px;
+  padding: 2px 0px 0px 5px;
+}
+
+img {
+  display: block;
+  padding-left: 0px;
+}
+
+.info {
+  background: #6fdae7;
+  padding: 10px 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 10px auto;
+}
+
+.weekday {
+  border-radius: 4px;
+}
+
+.current {
+  padding-left: 0px;
+  display: block;
+  margin-top: 5px;
+}
+
+#search-feature {
+  padding: 2px 0px;
+}
