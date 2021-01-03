@@ -77,6 +77,10 @@ img {
   margin-top: 5px;
 }
 
+#code-link {
+  text-align: center;
+}
+
 #search-feature {
   padding: 2px 0px;
 }
